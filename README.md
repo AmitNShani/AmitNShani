@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Shani
-- 🌱 I’m currently learning Java
+- 🌱 Fullstack engineer
 - 📫 How to reach me - AmitNShani@gmail.com :)
 
 <!---
